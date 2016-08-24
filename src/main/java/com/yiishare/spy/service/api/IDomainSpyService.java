@@ -17,7 +17,7 @@ public interface IDomainSpyService {
 
     /**
      * 
-     * Description: <br> 
+     * 查询可用的域名 <br> 
      *  
      * @author zhang.zhigao<br>
      * @taskId <br>
